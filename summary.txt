@@ -1,0 +1,145 @@
+TESTS RESULTS
+
+******************
+* New Power Mode *
+******************
+
+Jetson power configuration: 0
+
+Faster R-CNN - Summary
+ - FPS: 1.03
+
+Tiny YOLO v2 - Summary
+ - FPS: 18.17
+
+SSD - Summary
+ - FPS: 9.5
+
+DetectNet - Summary
+ - FPS: 7.48
+
+DetectNet with TensorRT - Summary
+ - FPS: 15.00
+
+SSD with MobileNet - Summary
+ - FPS: 27.03
+
+******************
+* New Power Mode *
+******************
+
+Jetson power configuration: 1
+
+Faster R-CNN - Summary
+ - FPS: 0.81
+
+Tiny YOLO v2 - Summary
+ - FPS: 16.80
+
+SSD - Summary
+ - FPS: 7.9
+
+DetectNet - Summary
+ - FPS: 6.09
+
+DetectNet with TensorRT - Summary
+ - FPS: 11.87
+
+SSD with MobileNet - Summary
+ - FPS: 19.63
+
+******************
+* New Power Mode *
+******************
+
+Jetson power configuration: 2
+
+Faster R-CNN - Summary
+ - FPS: 0.95
+
+Tiny YOLO v2 - Summary
+ - FPS: 19.27
+
+SSD - Summary
+ - FPS: 8.6
+
+DetectNet - Summary
+ - FPS: 6.96
+
+DetectNet with TensorRT - Summary
+ - FPS: 15.00
+
+SSD with MobileNet - Summary
+ - FPS: 23.80
+
+******************
+* New Power Mode *
+******************
+
+Jetson power configuration: 3
+
+Faster R-CNN - Summary
+ - FPS: 0.94
+
+Tiny YOLO v2 - Summary
+ - FPS: 15.95
+
+SSD - Summary
+ - FPS: 9.1
+
+DetectNet - Summary
+ - FPS: 6.98
+
+DetectNet with TensorRT - Summary
+ - FPS: 15.00
+
+SSD with MobileNet - Summary
+ - FPS: 24.87
+
+******************
+* New Power Mode *
+******************
+
+Jetson power configuration: 4
+
+Faster R-CNN - Summary
+ - FPS: 0.82
+
+Tiny YOLO v2 - Summary
+ - FPS: 9.12
+
+SSD - Summary
+ - FPS: 4.7
+
+DetectNet - Summary
+ - FPS: 6.94
+
+DetectNet with TensorRT - Summary
+ - FPS: 12.73
+
+SSD with MobileNet - Summary
+ - FPS: 8.87
+
+******************
+* New Power Mode *
+******************
+
+Jetson power configuration: 0 + jc
+
+Faster R-CNN - Summary
+ - FPS: 1.08
+
+Tiny YOLO v2 - Summary
+ - FPS: 21.06
+
+SSD - Summary
+ - FPS: 12.9
+
+DetectNet - Summary
+ - FPS: 8.63
+
+DetectNet with TensorRT - Summary
+ - FPS: 15.00
+
+SSD with MobileNet - Summary
+ - FPS: 27.07
